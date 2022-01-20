@@ -1,0 +1,55 @@
+.btnPage{
+    height:25px;
+    margin:10px;
+    border-radius: 3px;
+    background-color: rgb(250,243,243, 0.8);
+    color:rgb(37, 34, 34);
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(255,150,173);
+    outline:none;
+}
+.btnPage:hover{
+    color: rgb(250,243,243);
+    background-color:rgb(2,46,87, 0.8);
+    
+}
+.pageBox{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.numberPage{
+    padding-left: 8px;
+    padding-right: 8px;
+    height:25px;
+    margin:10px;
+    border-radius: 3px;
+    background-color: rgb(250,243,243, 0.8);
+    color:rgb(37, 34, 34);
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(255,150,173);
+    outline:none;
+}
+
+ul {
+    list-style-type:none;
+    margin: 0px;
+    padding: 0px;
+    background: white;
+    overflow: hidden;
+}
+li{
+    float: left;
+    
+}
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px, 16px;
+    text-decoration: none;
+
+}

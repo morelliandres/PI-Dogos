@@ -1,0 +1,43 @@
+
+
+.IniCointainter{
+    display:block;    
+    background-image:url('https://www.mundoperro.net/wp-content/uploads/perros-practicando-ejercicio.gif') ;
+    background-size:cover;
+    min-height: 100vh; 
+    min-width: 100vh;  
+}
+.dogIni{
+    position:fixed;
+    bottom:30px;
+    right:80vh;
+}
+.btnIni{
+    font-family:monospace;
+    font-size: 35px;
+    position:fixed;
+    top:60vh;
+    right:52vh;
+    border-radius: 3px;
+    background-color: rgb(250,243,243);
+    color:rgb(2,46,87);
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(255,150,173);
+    outline:none;
+}
+.btnIni:hover{
+    color: rgb(250,243,243);
+    background-color:rgb(2,46,87, 0.8);
+}
+.textIni{
+    color: rgb(0,90,141);
+    font-family:monospace;
+    font-size: 20px;
+    padding-top: 100px;
+}
+
+
+
+
+
